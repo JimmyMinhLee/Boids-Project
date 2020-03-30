@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3995CE3B-1151-30E1-A019-E8DB46DFBD7B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flock.cs">
+    <Files>
+      <File FileName="Assets/Flock.cs" Line="55" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Boids Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Behavior Scripts" expanded="True" />
+              <Node name="Flock.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="801035c1-52e3-4c49-ad1c-248a65811cba" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
