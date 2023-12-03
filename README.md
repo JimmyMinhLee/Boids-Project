@@ -1,4 +1,4 @@
-# Boids simulation in Unity 
+# BWhat?
 Birds flying around in a 2D space; what more is there to say? 
 
 ## What is this?
